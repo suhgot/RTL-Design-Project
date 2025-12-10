@@ -1,7 +1,7 @@
 # RTL-Design-Project
 
 > A collection of VHDL RTL modules, testbenches and an HLSM design report for digital-design coursework.
-> A reference to the project may be found in `HLSM_Design_Project.pdf` 
+> A reference to the project may be found in `RTL Design Project Report.pdf` 
 
 ## Repository Overview
 
